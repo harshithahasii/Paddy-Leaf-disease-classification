@@ -7,3 +7,6 @@ In this project two models are compared.
 CNN showed better and consistent accuracy so CNN is used.
 
 To design an interface to take an input Tkinter library is used.
+
+# Dataset
+Dataset is taken from UCI Machine Learning Repository.
